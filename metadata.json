@@ -1,0 +1,6 @@
+{
+  "name": "Lloyds Bank",
+  "description": "Secure, resilient, compliance-aligned enterprise digital banking platform for Lloyds Banking Group, featuring real-time accounts, transfers, cards management, smart fraud detection, and architectural design deliverables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
